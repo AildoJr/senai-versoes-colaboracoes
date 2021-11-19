@@ -2,3 +2,5 @@
 Repositório de versões e colaborações
 
 ReadMe de exemplo
+
+Lembrei do comando git commit
